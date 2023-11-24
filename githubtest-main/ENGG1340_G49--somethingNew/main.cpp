@@ -39,9 +39,6 @@ int main() {
     cin >> firstinput;
     if(firstinput = 1){
     runGame();}
-    elif(firstinput = 2){
-    
-    }
     else{
         cout << "please enter the number again"
     }
