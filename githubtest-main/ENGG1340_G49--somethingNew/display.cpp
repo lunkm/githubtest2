@@ -28,7 +28,7 @@ void displayControls() {
             "│ press W or A or S or D and press Enter for each move │      SCORE: " << currentScore <<"\n"
             "│ press O and press Enter for uncovering the tile      │      FLAGS: " << numberOfFlags <<"\n"
             "│ press P and press Enter for flagging the tile        │\n"
-            "│ press M to save and end the game                     │\n"
+            "│ press M to end the game                              │\n"
             "│ if you uncover a Mine you will LOSE 100 points       │\n"
             "│ FLAG all Mines to WIN!!                              │\n"
             "└──────────────────────────────────────────────────────┘\n";
